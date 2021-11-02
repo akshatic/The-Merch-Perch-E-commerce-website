@@ -1,0 +1,48 @@
+.header_carousel img {
+    max-height: 630px !important;
+}
+.shop_by_category img{
+    height: 400px;
+}
+#products img{
+    height: 350px;
+    width: auto;
+}
+#feature {
+    background-color:#03506f;
+}
+*{
+    scroll-behavior: smooth;
+}
+#footer_section {
+    background-color: #a3ddcb;
+}
+#shop_by_category{
+    background-color: #ffe3de;
+}
+#inner_details img{
+    height: 600px;
+}
+#cart{
+    background-color:#f8f1f1;
+}
+.card-body{
+    background-color: #23689b;
+}
+.topp{
+    background-color: #ffe3de !important;
+}
+#footer_section a{
+    text-decoration: none;
+    color: #4e3d53;
+}
+#footer_section ul{
+    list-style-type: square;
+}
+.goup{
+    background-color: #ec4646;
+    margin-left: 95%;
+}
+.look{
+    margin-right: 30px;
+}
